@@ -34,9 +34,10 @@ It enables organizations to:
    - [Run ETL Pipeline](#run-etl-pipeline)
    - [Launch Dashboard](#launch-dashboard)
    - [Generate Executive Report](#generate-executive-report)
-9. [Business Impact](#-business-impact)
-10. [Connect](#connect)
-11. [License](#license)
+9. [Dashboard Preview](#-dashboard-preview)
+10. [Business Impact](#-business-impact)
+11. [Connect](#connect)
+12. [License](#license)
 
 ---
 
@@ -197,6 +198,11 @@ streamlit run dashboard/streamlit_app.py
 ```bash
 python reports/generate_report.py
 ```
+
+---
+
+## 📊Dashboard Preview
+![Product Intelligence Dashboard](powerbi/Product_Intelligence_Dashboard_Mockup.png)
 
 ---
 
