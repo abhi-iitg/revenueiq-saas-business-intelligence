@@ -275,7 +275,7 @@ Potential next steps for extending the platform include:
 
 If you find this project useful, feel free to star the repository, explore the implementation, and share feedback.
 - **Email:mr.abhishekaaa@gmail.com**
-- [Portfolio](https://abhishek-kg-portfolio.vercel.app/)
+- [Portfolio](https://abhishek-kg-portfolio-pied.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/abhishekkumargond/)
 
 ## License
