@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0%" stop-color="#f8fbff"/><stop offset="100%" stop-color="#eef6ff"/></linearGradient>
+    <linearGradient id="card" x1="0" x2="1"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f4f9ff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".12"/></filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4778a8"/></marker>
+  </defs>
+  <rect width="1600" height="760" rx="28" fill="url(#bg)"/>
+  <text x="800" y="58" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#16324f">RevenueIQ — Modern SaaS Analytics Architecture</text>
+  <text x="800" y="92" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#58738d">From raw business data to executive-ready intelligence</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" filter="url(#shadow)">
+    <rect x="45" y="180" width="230" height="150" rx="18" fill="url(#card)" stroke="#9bc4e8" stroke-width="2"/>
+    <rect x="315" y="180" width="250" height="150" rx="18" fill="url(#card)" stroke="#8ed5ca" stroke-width="2"/>
+    <rect x="605" y="180" width="260" height="150" rx="18" fill="url(#card)" stroke="#a9b8ed" stroke-width="2"/>
+    <rect x="905" y="180" width="280" height="150" rx="18" fill="url(#card)" stroke="#f2c98b" stroke-width="2"/>
+    <rect x="1225" y="145" width="330" height="220" rx="18" fill="url(#card)" stroke="#d6a9e8" stroke-width="2"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#16324f">
+    <text x="160" y="220" text-anchor="middle" font-size="22" font-weight="700">Data Sources</text>
+    <text x="160" y="258" text-anchor="middle" font-size="17">CSV • Logs</text><text x="160" y="286" text-anchor="middle" font-size="17">Databases</text>
+    <text x="440" y="220" text-anchor="middle" font-size="22" font-weight="700">ETL Pipeline</text>
+    <text x="440" y="258" text-anchor="middle" font-size="17">Extract → Transform</text><text x="440" y="286" text-anchor="middle" font-size="17">→ Load</text>
+    <text x="735" y="220" text-anchor="middle" font-size="22" font-weight="700">SQL Warehouse</text>
+    <text x="735" y="258" text-anchor="middle" font-size="17">MySQL / SQLite</text><text x="735" y="286" text-anchor="middle" font-size="17">Star Schema Model</text>
+    <text x="1045" y="220" text-anchor="middle" font-size="22" font-weight="700">Analytics Engine</text>
+    <text x="1045" y="258" text-anchor="middle" font-size="17">CLV • Churn • RFM</text><text x="1045" y="286" text-anchor="middle" font-size="17">Cohorts • Revenue KPIs</text>
+    <text x="1390" y="190" text-anchor="middle" font-size="22" font-weight="700">Decision Layer</text>
+    <text x="1390" y="235" text-anchor="middle" font-size="17">Streamlit Dashboard</text><text x="1390" y="270" text-anchor="middle" font-size="17">Power BI Reports</text><text x="1390" y="305" text-anchor="middle" font-size="17">Executive PDF Reports</text>
+  </g>
+
+  <g stroke="#4778a8" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M275 255 H305"/><path d="M565 255 H595"/><path d="M865 255 H895"/><path d="M1185 255 H1215"/>
+  </g>
+
+  <rect x="250" y="455" width="1100" height="190" rx="24" fill="#ffffff" stroke="#b7cce0" stroke-width="2" filter="url(#shadow)"/>
+  <text x="800" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#16324f">Business Outcomes</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#35556f">
+    <text x="330" y="550">✓ Retention opportunities</text><text x="330" y="590">✓ Churn-risk visibility</text>
+    <text x="680" y="550">✓ CLV-driven prioritization</text><text x="680" y="590">✓ Revenue growth tracking</text>
+    <text x="1040" y="550">✓ Product performance</text><text x="1040" y="590">✓ Data-driven decisions</text>
+  </g>
+  <path d="M1390 365 V420 H800 V445" stroke="#4778a8" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+</svg>
