@@ -2,6 +2,13 @@
 
 > **An end-to-end SaaS analytics platform that transforms raw customer, subscription, and revenue data into actionable business intelligence for retention, growth, and revenue optimization.**
 
+<p align="center">
+  <a href="https://github.com/abhi-iitg/impactiq-campaign-uplift-optimization.git"><img src="https://img.shields.io/badge/💻_GITHUB-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://abhishek-kg-portfolio-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/abhishekkumargond/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mr.abhishekaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -272,11 +279,9 @@ Potential next steps for extending the platform include:
 - Model monitoring and data-quality checks
 
 ## Connect
-
+Abhishek Kumar Gond
+B.Tech | IIT Guwahati
 If you find this project useful, feel free to star the repository, explore the implementation, and share feedback.
-- **Email:mr.abhishekaaa@gmail.com**
-- [Portfolio](https://abhishek-kg-portfolio-pied.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/abhishekkumargond/)
 
 ## License
 
