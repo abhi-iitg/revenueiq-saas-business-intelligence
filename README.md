@@ -14,27 +14,6 @@
 [![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Overview
-
-**RevenueIQ** is an end-to-end Data Analytics and Business Intelligence solution designed to analyze customer behavior, product performance, subscription trends, and revenue growth.
-
-The platform converts raw business data into decision-ready insights through:
-
-- An automated ETL pipeline
-- A SQL-based analytical warehouse
-- Customer and revenue analytics
-- Cohort and retention analysis
-- Interactive dashboards
-- Executive-ready PDF reporting
-
-The project is designed to support practical SaaS business questions such as:
-
-- Which customers are most valuable?
-- Which customers are at risk of churn?
-- How is recurring revenue changing over time?
-- Which products or plans contribute most to revenue?
-- How can customer retention and lifetime value be improved?
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -55,6 +34,27 @@ The project is designed to support practical SaaS business questions such as:
 - [Future Enhancements](#future-enhancements)
 - [Connect](#connect)
 - [License](#license)
+
+## Overview
+
+**RevenueIQ** is an end-to-end Data Analytics and Business Intelligence solution designed to analyze customer behavior, product performance, subscription trends, and revenue growth.
+
+The platform converts raw business data into decision-ready insights through:
+
+- An automated ETL pipeline
+- A SQL-based analytical warehouse
+- Customer and revenue analytics
+- Cohort and retention analysis
+- Interactive dashboards
+- Executive-ready PDF reporting
+
+The project is designed to support practical SaaS business questions such as:
+
+- Which customers are most valuable?
+- Which customers are at risk of churn?
+- How is recurring revenue changing over time?
+- Which products or plans contribute most to revenue?
+- How can customer retention and lifetime value be improved?
 
 ## Business Objectives
 
