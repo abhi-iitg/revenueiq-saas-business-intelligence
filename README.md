@@ -280,7 +280,7 @@ Potential next steps for extending the platform include:
 
 ## Connect
 Abhishek Kumar Gond
-B.Tech | IIT Guwahati
+B.Tech in Chemical Engineering | IIT Guwahati
 If you find this project useful, feel free to star the repository, explore the implementation, and share feedback.
 
 ## License
